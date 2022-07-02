@@ -1,0 +1,7 @@
+name,price,level,boost_field,boost
+Potion,10,0,strength,10
+Hi-Potion,20,0,strength,15
+Mega-Potion,40,2,agility,20
+Ether,50,4,dexterity,30
+Elixir,70,6,agility,40
+Holy Water,140,10,strength,80
